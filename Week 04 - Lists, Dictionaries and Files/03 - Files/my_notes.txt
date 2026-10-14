@@ -1,0 +1,3 @@
+Tuples is locked
+Lists can be updated
+Dictionary is used to store key,value pairs
