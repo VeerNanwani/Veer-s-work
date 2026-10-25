@@ -1,0 +1,5 @@
+Server-A,70,100
+Server-B,95,100
+Server-C,130,100
+Server-D,100,100
+Server-E,40,80
